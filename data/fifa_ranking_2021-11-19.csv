@@ -1,0 +1,1679 @@
+rank,country_full,rank_date
+1,Belgium,2021-08-12
+2,Brazil,2021-08-12
+3,France,2021-08-12
+4,England,2021-08-12
+5,Italy,2021-08-12
+6,Argentina,2021-08-12
+7,Spain,2021-08-12
+8,Portugal,2021-08-12
+9,Mexico,2021-08-12
+10,USA,2021-08-12
+11,Denmark,2021-08-12
+12,Netherlands,2021-08-12
+13,Uruguay,2021-08-12
+14,Switzerland,2021-08-12
+15,Colombia,2021-08-12
+16,Germany,2021-08-12
+17,Sweden,2021-08-12
+18,Croatia,2021-08-12
+19,Wales,2021-08-12
+20,Chile,2021-08-12
+21,Senegal,2021-08-12
+22,Peru,2021-08-12
+23,Austria,2021-08-12
+24,Japan,2021-08-12
+25,Ukraine,2021-08-12
+26,IR Iran,2021-08-12
+27,Poland,2021-08-12
+28,Tunisia,2021-08-12
+29,Serbia,2021-08-12
+30,Algeria,2021-08-12
+31,Czech Republic,2021-08-12
+32,Morocco,2021-08-12
+33,Paraguay,2021-08-12
+34,Nigeria,2021-08-12
+35,Australia,2021-08-12
+36,Korea Republic,2021-08-12
+37,Hungary,2021-08-12
+38,Slovakia,2021-08-12
+39,Turkey,2021-08-12
+40,Venezuela,2021-08-12
+41,Russia,2021-08-12
+42,Qatar,2021-08-12
+43,Norway,2021-08-12
+44,Costa Rica,2021-08-12
+45,Romania,2021-08-12
+46,Egypt,2021-08-12
+47,Republic of Ireland,2021-08-12
+48,Greece,2021-08-12
+49,Scotland,2021-08-12
+50,Jamaica,2021-08-12
+51,Northern Ireland,2021-08-12
+52,Ghana,2021-08-12
+53,Iceland,2021-08-12
+54,Cameroon,2021-08-12
+55,Ecuador,2021-08-12
+56,Finland,2021-08-12
+57,Côte d'Ivoire,2021-08-12
+58,Bosnia and Herzegovina,2021-08-12
+59,Canada,2021-08-12
+60,Mali,2021-08-12
+61,Saudi Arabia,2021-08-12
+62,Burkina Faso,2021-08-12
+63,Honduras,2021-08-12
+64,El Salvador,2021-08-12
+65,Congo DR,2021-08-12
+66,Slovenia,2021-08-12
+67,Montenegro,2021-08-12
+68,United Arab Emirates,2021-08-12
+69,Albania,2021-08-12
+70,Iraq,2021-08-12
+71,China PR,2021-08-12
+72,North Macedonia,2021-08-12
+73,South Africa,2021-08-12
+74,Panama,2021-08-12
+75,Bulgaria,2021-08-12
+76,Guinea,2021-08-12
+77,Cabo Verde,2021-08-12
+78,Curaçao,2021-08-12
+79,Oman,2021-08-12
+80,Syria,2021-08-12
+81,Israel,2021-08-12
+82,Bolivia,2021-08-12
+83,Uzbekistan,2021-08-12
+84,Uganda,2021-08-12
+85,Gabon,2021-08-12
+86,Benin,2021-08-12
+87,Zambia,2021-08-12
+88,Armenia,2021-08-12
+89,Belarus,2021-08-12
+90,Haiti,2021-08-12
+91,Georgia,2021-08-12
+92,Vietnam,2021-08-12
+93,Congo,2021-08-12
+94,Bahrain,2021-08-12
+95,Jordan,2021-08-12
+96,Luxembourg,2021-08-12
+97,Madagascar,2021-08-12
+98,Lebanon,2021-08-12
+99,Cyprus,2021-08-12
+100,Mauritania,2021-08-12
+101,Kyrgyz Republic,2021-08-12
+102,Palestine,2021-08-12
+103,Trinidad and Tobago,2021-08-12
+104,Kenya,2021-08-12
+105,India,2021-08-12
+106,Sierra Leone,2021-08-12
+107,Namibia,2021-08-12
+108,Zimbabwe,2021-08-12
+109,Guinea-Bissau,2021-08-12
+110,Estonia,2021-08-12
+111,Korea DPR,2021-08-12
+112,Azerbaijan,2021-08-12
+113,Mozambique,2021-08-12
+114,Faroe Islands,2021-08-12
+115,Kosovo,2021-08-12
+116,Tajikistan,2021-08-12
+117,Niger,2021-08-12
+118,Malawi,2021-08-12
+119,New Zealand,2021-08-12
+120,Thailand,2021-08-12
+121,Sudan,2021-08-12
+122,Libya,2021-08-12
+123,Central African Republic,2021-08-12
+124,Kazakhstan,2021-08-12
+125,Guatemala,2021-08-12
+126,Angola,2021-08-12
+127,Rwanda,2021-08-12
+128,Philippines,2021-08-12
+129,Antigua and Barbuda,2021-08-12
+130,Turkmenistan,2021-08-12
+131,Togo,2021-08-12
+132,Equatorial Guinea,2021-08-12
+133,Comoros,2021-08-12
+134,Lithuania,2021-08-12
+135,Tanzania,2021-08-12
+136,Latvia,2021-08-12
+137,Ethiopia,2021-08-12
+138,St. Kitts and Nevis,2021-08-12
+139,Suriname,2021-08-12
+140,Burundi,2021-08-12
+141,Solomon Islands,2021-08-12
+142,Kuwait,2021-08-12
+143,Nicaragua,2021-08-12
+144,Lesotho,2021-08-12
+145,Myanmar,2021-08-12
+146,Eswatini,2021-08-12
+147,Hong Kong,2021-08-12
+148,Gambia,2021-08-12
+149,Botswana,2021-08-12
+150,Liberia,2021-08-12
+151,Chinese Taipei,2021-08-12
+152,Yemen,2021-08-12
+153,Afghanistan,2021-08-12
+154,Malaysia,2021-08-12
+155,New Caledonia,2021-08-12
+156,Andorra,2021-08-12
+157,Dominican Republic,2021-08-12
+158,Maldives,2021-08-12
+159,Tahiti,2021-08-12
+160,Singapore,2021-08-12
+161,Fiji,2021-08-12
+162,Barbados,2021-08-12
+163,Vanuatu,2021-08-12
+164,Papua New Guinea,2021-08-12
+165,South Sudan,2021-08-12
+166,Bermuda,2021-08-12
+167,Grenada,2021-08-12
+168,Nepal,2021-08-12
+169,Belize,2021-08-12
+170,Mauritius,2021-08-12
+171,Puerto Rico,2021-08-12
+172,St. Vincent and the Grenadines,2021-08-12
+173,Guyana,2021-08-12
+174,Indonesia,2021-08-12
+175,Moldova,2021-08-12
+176,St. Lucia,2021-08-12
+177,Malta,2021-08-12
+178,Montserrat,2021-08-12
+179,Cambodia,2021-08-12
+180,Cuba,2021-08-12
+181,Chad,2021-08-12
+182,Djibouti,2021-08-12
+183,Macau,2021-08-12
+184,Dominica,2021-08-12
+185,Mongolia,2021-08-12
+186,Laos,2021-08-12
+187,Bhutan,2021-08-12
+188,Bangladesh,2021-08-12
+189,Liechtenstein,2021-08-12
+190,Brunei Darussalam,2021-08-12
+191,São Tomé and Príncipe,2021-08-12
+192,American Samoa,2021-08-12
+193,Samoa,2021-08-12
+194,Gibraltar,2021-08-12
+195,Timor-Leste,2021-08-12
+196,Somalia,2021-08-12
+197,Cayman Islands,2021-08-12
+198,Pakistan,2021-08-12
+199,Seychelles,2021-08-12
+200,Tonga,2021-08-12
+201,Aruba,2021-08-12
+202,Bahamas,2021-08-12
+203,Guam,2021-08-12
+204,Eritrea,2021-08-12
+205,Sri Lanka,2021-08-12
+206,Turks and Caicos Islands,2021-08-12
+207,US Virgin Islands,2021-08-12
+208,British Virgin Islands,2021-08-12
+209,San Marino,2021-08-12
+210,Anguilla,2021-08-12
+1,Belgium,2021-09-16
+2,Brazil,2021-09-16
+3,England,2021-09-16
+4,France,2021-09-16
+5,Italy,2021-09-16
+6,Argentina,2021-09-16
+7,Portugal,2021-09-16
+8,Spain,2021-09-16
+9,Mexico,2021-09-16
+10,Denmark,2021-09-16
+11,Netherlands,2021-09-16
+12,Uruguay,2021-09-16
+13,USA,2021-09-16
+14,Germany,2021-09-16
+15,Switzerland,2021-09-16
+16,Colombia,2021-09-16
+17,Croatia,2021-09-16
+18,Sweden,2021-09-16
+19,Wales,2021-09-16
+20,Senegal,2021-09-16
+21,Peru,2021-09-16
+22,IR Iran,2021-09-16
+23,Chile,2021-09-16
+24,Poland,2021-09-16
+25,Tunisia,2021-09-16
+26,Japan,2021-09-16
+27,Ukraine,2021-09-16
+28,Serbia,2021-09-16
+29,Austria,2021-09-16
+30,Algeria,2021-09-16
+31,Czech Republic,2021-09-16
+32,Australia,2021-09-16
+33,Morocco,2021-09-16
+34,Nigeria,2021-09-16
+35,Paraguay,2021-09-16
+36,Korea Republic,2021-09-16
+37,Russia,2021-09-16
+38,Slovakia,2021-09-16
+39,Norway,2021-09-16
+40,Hungary,2021-09-16
+41,Turkey,2021-09-16
+42,Romania,2021-09-16
+43,Qatar,2021-09-16
+44,Costa Rica,2021-09-16
+45,Scotland,2021-09-16
+46,Greece,2021-09-16
+47,Northern Ireland,2021-09-16
+48,Egypt,2021-09-16
+49,Venezuela,2021-09-16
+50,Republic of Ireland,2021-09-16
+51,Canada,2021-09-16
+52,Ecuador,2021-09-16
+53,Ghana,2021-09-16
+54,Côte d'Ivoire,2021-09-16
+55,Finland,2021-09-16
+56,Saudi Arabia,2021-09-16
+57,Bosnia and Herzegovina,2021-09-16
+58,Cameroon,2021-09-16
+59,Jamaica,2021-09-16
+60,Iceland,2021-09-16
+61,Mali,2021-09-16
+62,Burkina Faso,2021-09-16
+63,Honduras,2021-09-16
+64,Slovenia,2021-09-16
+65,El Salvador,2021-09-16
+66,Albania,2021-09-16
+67,Congo DR,2021-09-16
+68,Panama,2021-09-16
+69,United Arab Emirates,2021-09-16
+70,Bulgaria,2021-09-16
+71,Montenegro,2021-09-16
+72,Iraq,2021-09-16
+73,South Africa,2021-09-16
+74,North Macedonia,2021-09-16
+75,China PR,2021-09-16
+76,Guinea,2021-09-16
+77,Cabo Verde,2021-09-16
+78,Oman,2021-09-16
+79,Curaçao,2021-09-16
+80,Israel,2021-09-16
+81,Syria,2021-09-16
+82,Benin,2021-09-16
+83,Bolivia,2021-09-16
+84,Uzbekistan,2021-09-16
+85,Zambia,2021-09-16
+86,Uganda,2021-09-16
+87,Haiti,2021-09-16
+88,Gabon,2021-09-16
+89,Armenia,2021-09-16
+90,Belarus,2021-09-16
+91,Bahrain,2021-09-16
+92,Congo,2021-09-16
+93,Jordan,2021-09-16
+94,Luxembourg,2021-09-16
+95,Vietnam,2021-09-16
+96,Georgia,2021-09-16
+97,Lebanon,2021-09-16
+98,Kyrgyz Republic,2021-09-16
+99,Palestine,2021-09-16
+100,Madagascar,2021-09-16
+101,Trinidad and Tobago,2021-09-16
+102,Kenya,2021-09-16
+103,Cyprus,2021-09-16
+104,Mauritania,2021-09-16
+105,Guinea-Bissau,2021-09-16
+106,Namibia,2021-09-16
+107,India,2021-09-16
+108,Sierra Leone,2021-09-16
+109,Kosovo,2021-09-16
+110,Libya,2021-09-16
+111,Estonia,2021-09-16
+112,Korea DPR,2021-09-16
+113,Zimbabwe,2021-09-16
+114,Faroe Islands,2021-09-16
+115,Malawi,2021-09-16
+116,Mozambique,2021-09-16
+117,Azerbaijan,2021-09-16
+118,Tajikistan,2021-09-16
+119,Niger,2021-09-16
+120,Kazakhstan,2021-09-16
+121,New Zealand,2021-09-16
+122,Thailand,2021-09-16
+123,Guatemala,2021-09-16
+124,Central African Republic,2021-09-16
+125,Philippines,2021-09-16
+126,Antigua and Barbuda,2021-09-16
+127,Sudan,2021-09-16
+128,Rwanda,2021-09-16
+129,Angola,2021-09-16
+130,Turkmenistan,2021-09-16
+131,Equatorial Guinea,2021-09-16
+132,Tanzania,2021-09-16
+133,Comoros,2021-09-16
+134,Ethiopia,2021-09-16
+135,Latvia,2021-09-16
+136,Togo,2021-09-16
+137,Lithuania,2021-09-16
+138,St. Kitts and Nevis,2021-09-16
+139,Suriname,2021-09-16
+140,Solomon Islands,2021-09-16
+141,Burundi,2021-09-16
+142,Kuwait,2021-09-16
+143,Nicaragua,2021-09-16
+144,Liberia,2021-09-16
+145,Lesotho,2021-09-16
+146,Myanmar,2021-09-16
+147,Eswatini,2021-09-16
+148,Hong Kong,2021-09-16
+149,Gambia,2021-09-16
+150,Botswana,2021-09-16
+151,Chinese Taipei,2021-09-16
+152,Yemen,2021-09-16
+153,Afghanistan,2021-09-16
+154,Malaysia,2021-09-16
+155,New Caledonia,2021-09-16
+156,Andorra,2021-09-16
+157,Dominican Republic,2021-09-16
+158,Maldives,2021-09-16
+159,Tahiti,2021-09-16
+160,Singapore,2021-09-16
+161,Fiji,2021-09-16
+162,Barbados,2021-09-16
+163,Vanuatu,2021-09-16
+164,Papua New Guinea,2021-09-16
+165,South Sudan,2021-09-16
+166,Bermuda,2021-09-16
+167,Grenada,2021-09-16
+168,Nepal,2021-09-16
+169,Belize,2021-09-16
+170,Mauritius,2021-09-16
+171,Malta,2021-09-16
+172,Puerto Rico,2021-09-16
+173,St. Vincent and the Grenadines,2021-09-16
+174,Guyana,2021-09-16
+175,Indonesia,2021-09-16
+176,St. Lucia,2021-09-16
+177,Montserrat,2021-09-16
+178,Cambodia,2021-09-16
+179,Cuba,2021-09-16
+180,Moldova,2021-09-16
+181,Chad,2021-09-16
+182,Macau,2021-09-16
+183,Dominica,2021-09-16
+184,Mongolia,2021-09-16
+185,Djibouti,2021-09-16
+186,Laos,2021-09-16
+187,Bhutan,2021-09-16
+188,Liechtenstein,2021-09-16
+189,Bangladesh,2021-09-16
+190,Brunei Darussalam,2021-09-16
+191,São Tomé and Príncipe,2021-09-16
+192,American Samoa,2021-09-16
+193,Samoa,2021-09-16
+194,Timor-Leste,2021-09-16
+195,Somalia,2021-09-16
+196,Cayman Islands,2021-09-16
+197,Gibraltar,2021-09-16
+198,Pakistan,2021-09-16
+199,Seychelles,2021-09-16
+200,Tonga,2021-09-16
+201,Aruba,2021-09-16
+202,Bahamas,2021-09-16
+203,Guam,2021-09-16
+204,Eritrea,2021-09-16
+205,Sri Lanka,2021-09-16
+206,Turks and Caicos Islands,2021-09-16
+207,US Virgin Islands,2021-09-16
+208,British Virgin Islands,2021-09-16
+209,Anguilla,2021-09-16
+210,San Marino,2021-09-16
+1,Belgium,2021-10-21
+2,Brazil,2021-10-21
+3,France,2021-10-21
+4,Italy,2021-10-21
+5,England,2021-10-21
+6,Argentina,2021-10-21
+7,Spain,2021-10-21
+8,Portugal,2021-10-21
+9,Mexico,2021-10-21
+10,Denmark,2021-10-21
+11,Netherlands,2021-10-21
+12,Germany,2021-10-21
+13,USA,2021-10-21
+14,Switzerland,2021-10-21
+15,Uruguay,2021-10-21
+16,Colombia,2021-10-21
+17,Sweden,2021-10-21
+18,Croatia,2021-10-21
+19,Wales,2021-10-21
+20,Senegal,2021-10-21
+21,Chile,2021-10-21
+22,IR Iran,2021-10-21
+23,Poland,2021-10-21
+24,Peru,2021-10-21
+25,Serbia,2021-10-21
+26,Ukraine,2021-10-21
+27,Tunisia,2021-10-21
+28,Japan,2021-10-21
+29,Morocco,2021-10-21
+30,Algeria,2021-10-21
+31,Czech Republic,2021-10-21
+32,Austria,2021-10-21
+33,Russia,2021-10-21
+34,Australia,2021-10-21
+35,Korea Republic,2021-10-21
+36,Nigeria,2021-10-21
+37,Norway,2021-10-21
+38,Paraguay,2021-10-21
+39,Turkey,2021-10-21
+40,Slovakia,2021-10-21
+41,Romania,2021-10-21
+42,Scotland,2021-10-21
+43,Hungary,2021-10-21
+44,Egypt,2021-10-21
+45,Costa Rica,2021-10-21
+46,Qatar,2021-10-21
+47,Greece,2021-10-21
+48,Canada,2021-10-21
+49,Saudi Arabia,2021-10-21
+50,Venezuela,2021-10-21
+51,Republic of Ireland,2021-10-21
+52,Ghana,2021-10-21
+53,Côte d'Ivoire,2021-10-21
+54,Cameroon,2021-10-21
+55,Ecuador,2021-10-21
+56,Bosnia and Herzegovina,2021-10-21
+57,Mali,2021-10-21
+58,Northern Ireland,2021-10-21
+59,Jamaica,2021-10-21
+60,Finland,2021-10-21
+61,Burkina Faso,2021-10-21
+62,Iceland,2021-10-21
+63,Albania,2021-10-21
+64,Slovenia,2021-10-21
+65,El Salvador,2021-10-21
+66,South Africa,2021-10-21
+67,Congo DR,2021-10-21
+68,Honduras,2021-10-21
+69,Panama,2021-10-21
+70,Bulgaria,2021-10-21
+71,United Arab Emirates,2021-10-21
+72,Iraq,2021-10-21
+73,Montenegro,2021-10-21
+74,North Macedonia,2021-10-21
+75,China PR,2021-10-21
+76,Cabo Verde,2021-10-21
+77,Oman,2021-10-21
+78,Bolivia,2021-10-21
+79,Guinea,2021-10-21
+80,Israel,2021-10-21
+81,Curaçao,2021-10-21
+82,Uganda,2021-10-21
+83,Benin,2021-10-21
+84,Uzbekistan,2021-10-21
+85,Syria,2021-10-21
+86,Haiti,2021-10-21
+87,Zambia,2021-10-21
+88,Gabon,2021-10-21
+89,Armenia,2021-10-21
+90,Jordan,2021-10-21
+91,Bahrain,2021-10-21
+92,Lebanon,2021-10-21
+93,Georgia,2021-10-21
+94,Luxembourg,2021-10-21
+95,Belarus,2021-10-21
+96,Kyrgyz Republic,2021-10-21
+97,Congo,2021-10-21
+98,Vietnam,2021-10-21
+99,Madagascar,2021-10-21
+100,Palestine,2021-10-21
+101,Trinidad and Tobago,2021-10-21
+102,Mauritania,2021-10-21
+103,Cyprus,2021-10-21
+104,Kenya,2021-10-21
+105,Estonia,2021-10-21
+106,India,2021-10-21
+107,Sierra Leone,2021-10-21
+108,Namibia,2021-10-21
+109,Guinea-Bissau,2021-10-21
+110,Korea DPR,2021-10-21
+111,New Zealand,2021-10-21
+112,Libya,2021-10-21
+113,Kosovo,2021-10-21
+114,Tajikistan,2021-10-21
+115,Central African Republic,2021-10-21
+116,Faroe Islands,2021-10-21
+117,Thailand,2021-10-21
+118,Zimbabwe,2021-10-21
+119,Azerbaijan,2021-10-21
+120,Malawi,2021-10-21
+121,Niger,2021-10-21
+122,Mozambique,2021-10-21
+123,Sudan,2021-10-21
+124,Guatemala,2021-10-21
+125,Kazakhstan,2021-10-21
+126,Equatorial Guinea,2021-10-21
+127,Philippines,2021-10-21
+128,Antigua and Barbuda,2021-10-21
+129,Angola,2021-10-21
+130,Tanzania,2021-10-21
+131,Turkmenistan,2021-10-21
+132,Comoros,2021-10-21
+133,Rwanda,2021-10-21
+134,Togo,2021-10-21
+135,Lithuania,2021-10-21
+136,Latvia,2021-10-21
+137,Ethiopia,2021-10-21
+138,St. Kitts and Nevis,2021-10-21
+139,Suriname,2021-10-21
+140,Solomon Islands,2021-10-21
+141,Burundi,2021-10-21
+142,Kuwait,2021-10-21
+143,Nicaragua,2021-10-21
+144,Lesotho,2021-10-21
+145,Myanmar,2021-10-21
+146,Eswatini,2021-10-21
+147,Gambia,2021-10-21
+148,Hong Kong,2021-10-21
+149,Botswana,2021-10-21
+150,Liberia,2021-10-21
+151,Yemen,2021-10-21
+152,Afghanistan,2021-10-21
+153,Andorra,2021-10-21
+154,New Caledonia,2021-10-21
+155,Malaysia,2021-10-21
+156,Maldives,2021-10-21
+157,Dominican Republic,2021-10-21
+158,Chinese Taipei,2021-10-21
+159,Tahiti,2021-10-21
+160,Singapore,2021-10-21
+161,Fiji,2021-10-21
+162,Barbados,2021-10-21
+163,Vanuatu,2021-10-21
+164,Papua New Guinea,2021-10-21
+165,Indonesia,2021-10-21
+166,Bermuda,2021-10-21
+167,South Sudan,2021-10-21
+168,Grenada,2021-10-21
+169,Nepal,2021-10-21
+170,Cambodia,2021-10-21
+171,Belize,2021-10-21
+172,Mauritius,2021-10-21
+173,Malta,2021-10-21
+174,Puerto Rico,2021-10-21
+175,St. Vincent and the Grenadines,2021-10-21
+176,Guyana,2021-10-21
+177,St. Lucia,2021-10-21
+178,Montserrat,2021-10-21
+179,Cuba,2021-10-21
+180,Chad,2021-10-21
+181,Moldova,2021-10-21
+182,Macau,2021-10-21
+183,Dominica,2021-10-21
+184,Mongolia,2021-10-21
+185,Laos,2021-10-21
+186,Bhutan,2021-10-21
+187,Bangladesh,2021-10-21
+188,Djibouti,2021-10-21
+189,Brunei Darussalam,2021-10-21
+190,Liechtenstein,2021-10-21
+191,São Tomé and Príncipe,2021-10-21
+192,American Samoa,2021-10-21
+193,Samoa,2021-10-21
+194,Timor-Leste,2021-10-21
+195,Somalia,2021-10-21
+196,Cayman Islands,2021-10-21
+197,Pakistan,2021-10-21
+198,Gibraltar,2021-10-21
+199,Seychelles,2021-10-21
+200,Tonga,2021-10-21
+201,Aruba,2021-10-21
+202,Bahamas,2021-10-21
+203,Eritrea,2021-10-21
+204,Sri Lanka,2021-10-21
+205,Turks and Caicos Islands,2021-10-21
+206,Guam,2021-10-21
+207,US Virgin Islands,2021-10-21
+208,British Virgin Islands,2021-10-21
+209,Anguilla,2021-10-21
+210,San Marino,2021-10-21
+1,Belgium,2021-11-19
+2,Brazil,2021-11-19
+3,France,2021-11-19
+4,England,2021-11-19
+5,Argentina,2021-11-19
+6,Italy,2021-11-19
+7,Spain,2021-11-19
+8,Portugal,2021-11-19
+9,Denmark,2021-11-19
+10,Netherlands,2021-11-19
+11,Germany,2021-11-19
+12,USA,2021-11-19
+13,Switzerland,2021-11-19
+14,Mexico,2021-11-19
+15,Croatia,2021-11-19
+16,Colombia,2021-11-19
+17,Uruguay,2021-11-19
+18,Sweden,2021-11-19
+19,Wales,2021-11-19
+20,Senegal,2021-11-19
+21,IR Iran,2021-11-19
+22,Peru,2021-11-19
+23,Serbia,2021-11-19
+24,Chile,2021-11-19
+25,Ukraine,2021-11-19
+26,Japan,2021-11-19
+27,Poland,2021-11-19
+28,Morocco,2021-11-19
+29,Tunisia,2021-11-19
+30,Austria,2021-11-19
+31,Czech Republic,2021-11-19
+32,Algeria,2021-11-19
+33,Korea Republic,2021-11-19
+34,Russia,2021-11-19
+35,Australia,2021-11-19
+36,Nigeria,2021-11-19
+37,Turkey,2021-11-19
+38,Scotland,2021-11-19
+39,Hungary,2021-11-19
+40,Canada,2021-11-19
+41,Norway,2021-11-19
+42,Slovakia,2021-11-19
+43,Paraguay,2021-11-19
+44,Romania,2021-11-19
+45,Egypt,2021-11-19
+46,Ecuador,2021-11-19
+47,Republic of Ireland,2021-11-19
+48,Saudi Arabia,2021-11-19
+49,Costa Rica,2021-11-19
+50,Cameroon,2021-11-19
+51,Qatar,2021-11-19
+52,Ghana,2021-11-19
+53,Mali,2021-11-19
+54,Northern Ireland,2021-11-19
+55,Greece,2021-11-19
+56,Côte d'Ivoire,2021-11-19
+57,Jamaica,2021-11-19
+58,Finland,2021-11-19
+59,Venezuela,2021-11-19
+60,Burkina Faso,2021-11-19
+61,Bosnia and Herzegovina,2021-11-19
+62,Iceland,2021-11-19
+63,Panama,2021-11-19
+64,Congo DR,2021-11-19
+65,Slovenia,2021-11-19
+66,Albania,2021-11-19
+67,North Macedonia,2021-11-19
+68,South Africa,2021-11-19
+69,El Salvador,2021-11-19
+70,United Arab Emirates,2021-11-19
+71,Bulgaria,2021-11-19
+72,Montenegro,2021-11-19
+73,Cabo Verde,2021-11-19
+74,China PR,2021-11-19
+75,Iraq,2021-11-19
+76,Honduras,2021-11-19
+77,Bolivia,2021-11-19
+78,Oman,2021-11-19
+79,Israel,2021-11-19
+80,Curaçao,2021-11-19
+81,Guinea,2021-11-19
+82,Uganda,2021-11-19
+83,Benin,2021-11-19
+84,Uzbekistan,2021-11-19
+85,Syria,2021-11-19
+86,Georgia,2021-11-19
+87,Haiti,2021-11-19
+88,Zambia,2021-11-19
+89,Gabon,2021-11-19
+90,Bahrain,2021-11-19
+91,Jordan,2021-11-19
+92,Armenia,2021-11-19
+93,Luxembourg,2021-11-19
+94,Lebanon,2021-11-19
+95,Belarus,2021-11-19
+96,Kyrgyz Republic,2021-11-19
+97,Congo,2021-11-19
+98,Palestine,2021-11-19
+99,Vietnam,2021-11-19
+100,Trinidad and Tobago,2021-11-19
+101,Madagascar,2021-11-19
+102,Kenya,2021-11-19
+103,Mauritania,2021-11-19
+104,India,2021-11-19
+105,Cyprus,2021-11-19
+106,Guinea-Bissau,2021-11-19
+107,Estonia,2021-11-19
+108,Sierra Leone,2021-11-19
+109,Korea DPR,2021-11-19
+110,New Zealand,2021-11-19
+111,Kosovo,2021-11-19
+112,Namibia,2021-11-19
+113,Niger,2021-11-19
+114,Equatorial Guinea,2021-11-19
+115,Tajikistan,2021-11-19
+116,Libya,2021-11-19
+117,Mozambique,2021-11-19
+118,Thailand,2021-11-19
+119,Kazakhstan,2021-11-19
+120,Azerbaijan,2021-11-19
+121,Zimbabwe,2021-11-19
+122,Guatemala,2021-11-19
+123,Faroe Islands,2021-11-19
+124,Sudan,2021-11-19
+125,Togo,2021-11-19
+126,Philippines,2021-11-19
+127,Angola,2021-11-19
+128,Antigua and Barbuda,2021-11-19
+129,Malawi,2021-11-19
+130,Central African Republic,2021-11-19
+131,Tanzania,2021-11-19
+132,Comoros,2021-11-19
+133,Turkmenistan,2021-11-19
+134,Latvia,2021-11-19
+135,Rwanda,2021-11-19
+136,Lithuania,2021-11-19
+137,Ethiopia,2021-11-19
+138,St. Kitts and Nevis,2021-11-19
+139,Suriname,2021-11-19
+140,Burundi,2021-11-19
+141,Solomon Islands,2021-11-19
+142,Kuwait,2021-11-19
+143,Nicaragua,2021-11-19
+144,Liberia,2021-11-19
+145,Lesotho,2021-11-19
+146,Eswatini,2021-11-19
+147,Hong Kong,2021-11-19
+148,Myanmar,2021-11-19
+149,Botswana,2021-11-19
+150,Afghanistan,2021-11-19
+151,Gambia,2021-11-19
+152,Yemen,2021-11-19
+153,New Caledonia,2021-11-19
+154,Malaysia,2021-11-19
+155,Andorra,2021-11-19
+156,Dominican Republic,2021-11-19
+157,Maldives,2021-11-19
+158,Chinese Taipei,2021-11-19
+159,Tahiti,2021-11-19
+160,Singapore,2021-11-19
+161,Fiji,2021-11-19
+162,Barbados,2021-11-19
+163,Vanuatu,2021-11-19
+164,Papua New Guinea,2021-11-19
+165,Bermuda,2021-11-19
+166,Indonesia,2021-11-19
+167,South Sudan,2021-11-19
+168,Grenada,2021-11-19
+169,Nepal,2021-11-19
+170,Cambodia,2021-11-19
+171,Belize,2021-11-19
+172,Mauritius,2021-11-19
+173,Puerto Rico,2021-11-19
+174,St. Vincent and the Grenadines,2021-11-19
+175,Malta,2021-11-19
+176,Guyana,2021-11-19
+177,St. Lucia,2021-11-19
+178,Montserrat,2021-11-19
+179,Cuba,2021-11-19
+180,Chad,2021-11-19
+181,Moldova,2021-11-19
+182,Macau,2021-11-19
+183,Dominica,2021-11-19
+184,Mongolia,2021-11-19
+185,Laos,2021-11-19
+186,Bhutan,2021-11-19
+187,Bangladesh,2021-11-19
+188,Brunei Darussalam,2021-11-19
+189,São Tomé and Príncipe,2021-11-19
+190,American Samoa,2021-11-19
+191,Liechtenstein,2021-11-19
+192,Djibouti,2021-11-19
+193,Samoa,2021-11-19
+194,Timor-Leste,2021-11-19
+195,Somalia,2021-11-19
+196,Cayman Islands,2021-11-19
+197,Seychelles,2021-11-19
+198,Pakistan,2021-11-19
+199,Tonga,2021-11-19
+200,Aruba,2021-11-19
+201,Bahamas,2021-11-19
+202,Eritrea,2021-11-19
+203,Gibraltar,2021-11-19
+204,Sri Lanka,2021-11-19
+205,Turks and Caicos Islands,2021-11-19
+206,Guam,2021-11-19
+207,US Virgin Islands,2021-11-19
+208,British Virgin Islands,2021-11-19
+209,Anguilla,2021-11-19
+210,San Marino,2021-11-19
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
