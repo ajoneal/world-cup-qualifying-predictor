@@ -2,56 +2,56 @@ date,home_team,away_team,neutral,home_rank,away_rank,datetime,match_type_FIFA_WC
 2021-09-02,Canada,Honduras,0,59,63,2021-09-02,1,0,0,0
 2021-09-02,Panama,Costa Rica,0,74,44,2021-09-02,1,0,0,0
 2021-09-02,Mexico,Jamaica,0,9,50,2021-09-02,1,0,0,0
-2021-09-02,El Salvador,United States,0,64,87,2021-09-02,1,0,0,0
+2021-09-02,El Salvador,United States,0,64,10,2021-09-02,1,0,0,0
 2021-09-05,Jamaica,Panama,0,50,74,2021-09-05,1,0,0,0
 2021-09-05,El Salvador,Honduras,0,64,63,2021-09-05,1,0,0,0
 2021-09-05,Costa Rica,Mexico,0,44,9,2021-09-05,1,0,0,0
-2021-09-05,United States,Canada,0,87,59,2021-09-05,1,0,0,0
+2021-09-05,United States,Canada,0,10,59,2021-09-05,1,0,0,0
 2021-09-08,Canada,El Salvador,0,59,64,2021-09-08,1,0,0,0
 2021-09-08,Panama,Mexico,0,74,9,2021-09-08,1,0,0,0
 2021-09-08,Costa Rica,Jamaica,0,44,50,2021-09-08,1,0,0,0
-2021-09-08,Honduras,United States,0,63,87,2021-09-08,1,0,0,0
+2021-09-08,Honduras,United States,0,63,10,2021-09-08,1,0,0,0
 2021-10-07,Honduras,Costa Rica,0,63,44,2021-10-07,1,0,0,0
-2021-10-07,United States,Jamaica,0,87,50,2021-10-07,1,0,0,0
+2021-10-07,United States,Jamaica,0,10,50,2021-10-07,1,0,0,0
 2021-10-07,Mexico,Canada,0,9,59,2021-10-07,1,0,0,0
 2021-10-07,El Salvador,Panama,0,64,74,2021-10-07,1,0,0,0
 2021-10-10,Jamaica,Canada,0,50,59,2021-10-10,1,0,0,0
-2021-10-10,Panama,United States,0,74,87,2021-10-10,1,0,0,0
+2021-10-10,Panama,United States,0,74,10,2021-10-10,1,0,0,0
 2021-10-10,Costa Rica,El Salvador,0,44,64,2021-10-10,1,0,0,0
 2021-10-10,Mexico,Honduras,0,9,63,2021-10-10,1,0,0,0
-2021-10-12,United States,Costa Rica,0,87,44,2021-10-12,1,0,0,0
+2021-10-12,United States,Costa Rica,0,10,44,2021-10-12,1,0,0,0
 2021-10-13,Canada,Panama,0,59,74,2021-10-13,1,0,0,0
 2021-10-13,Honduras,Jamaica,0,63,50,2021-10-13,1,0,0,0
 2021-10-13,El Salvador,Mexico,0,64,9,2021-10-13,1,0,0,0
-2021-11-11,United States,Mexico,0,87,9,2021-11-11,1,0,0,0
+2021-11-11,United States,Mexico,0,10,9,2021-11-11,1,0,0,0
 2021-11-12,Honduras,Panama,0,63,74,2021-11-12,1,0,0,0
 2021-11-12,El Salvador,Jamaica,0,64,50,2021-11-12,1,0,0,0
 2021-11-12,Canada,Costa Rica,0,59,44,2021-11-12,1,0,0,0
-2021-11-16,Jamaica,United States,0,50,87,2021-11-16,1,0,0,0
+2021-11-16,Jamaica,United States,0,50,10,2021-11-16,1,0,0,0
 2021-11-16,Panama,El Salvador,0,74,64,2021-11-16,1,0,0,0
 2021-11-16,Costa Rica,Honduras,0,44,63,2021-11-16,1,0,0,0
 2021-11-16,Canada,Mexico,0,59,9,2021-11-16,1,0,0,0
 2022-01-26,Jamaica,Mexico,0,50,9,2022-01-26,1,0,0,0
 2022-01-26,Honduras,Canada,0,63,59,2022-01-26,1,0,0,0
-2022-01-26,United States,El Salvador,0,87,64,2022-01-26,1,0,0,0
+2022-01-26,United States,El Salvador,0,10,64,2022-01-26,1,0,0,0
 2022-01-26,Costa Rica,Panama,0,44,74,2022-01-26,1,0,0,0
 2022-01-29,Honduras,El Salvador,0,63,64,2022-01-29,1,0,0,0
 2022-01-29,Panama,Jamaica,0,74,50,2022-01-29,1,0,0,0
-2022-01-29,Canada,United States,0,59,87,2022-01-29,1,0,0,0
+2022-01-29,Canada,United States,0,59,10,2022-01-29,1,0,0,0
 2022-01-29,Mexico,Costa Rica,0,9,44,2022-01-29,1,0,0,0
 2022-02-01,Jamaica,Costa Rica,0,50,44,2022-02-01,1,0,0,0
-2022-02-01,United States,Honduras,0,87,63,2022-02-01,1,0,0,0
+2022-02-01,United States,Honduras,0,10,63,2022-02-01,1,0,0,0
 2022-02-01,Mexico,Panama,0,9,74,2022-02-01,1,0,0,0
 2022-02-01,El Salvador,Canada,0,64,59,2022-02-01,1,0,0,0
 2022-03-23,Jamaica,El Salvador,0,50,64,2022-03-23,1,0,0,0
 2022-03-23,Panama,Honduras,0,74,63,2022-03-23,1,0,0,0
-2022-03-23,Mexico,United States,0,9,87,2022-03-23,1,0,0,0
+2022-03-23,Mexico,United States,0,9,10,2022-03-23,1,0,0,0
 2022-03-23,Costa Rica,Canada,0,44,59,2022-03-23,1,0,0,0
-2022-03-26,United States,Panama,0,87,74,2022-03-26,1,0,0,0
+2022-03-26,United States,Panama,0,10,74,2022-03-26,1,0,0,0
 2022-03-26,Honduras,Mexico,0,63,9,2022-03-26,1,0,0,0
 2022-03-26,El Salvador,Costa Rica,0,64,44,2022-03-26,1,0,0,0
 2022-03-26,Canada,Jamaica,0,59,50,2022-03-26,1,0,0,0
 2022-03-29,Mexico,El Salvador,0,9,64,2022-03-29,1,0,0,0
 2022-03-29,Jamaica,Honduras,0,50,63,2022-03-29,1,0,0,0
 2022-03-29,Panama,Canada,0,74,59,2022-03-29,1,0,0,0
-2022-03-29,Costa Rica,United States,0,44,87,2022-03-29,1,0,0,0
+2022-03-29,Costa Rica,United States,0,44,10,2022-03-29,1,0,0,0
