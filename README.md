@@ -1,5 +1,6 @@
 # Predicting CONCACAF's World Cup Qualifiers
 Project by: Aaron O'Neal
+
 Date: 01/14/2022
 
 ---
@@ -27,12 +28,19 @@ The notebooks in this repository are numbered in order.  The data folder contain
 **Data folder files:**
 
 [`results.csv`](./data/results.csv):  International fixtures and scores dating back to 1872.  Obtained from https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017?select=results.csv.
+
 [`concacaf_wcq_fixtures.csv`](./data/concacaf_wcq_fixtures.csv):  Upcoming and previously played CONCACAF World Cup Qualifying fixtures.  Obtained from https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf.
+
 [`fifa_ranking_up_to_2021-05-27.csv`](./data/fifa_ranking_up_to_2021-05-27.csv):  World FIFA rankings prior to 05/27/2021.  Obtained from https://www.kaggle.com/cashncarry/fifaworldranking.
+
 [`fifa_ranking_2021-08-12_to_2021-11-19.csv`](./data/fifa_ranking_2021-08-12_to_2021-11-19.csv):  World FIFA rankings from 08/12/2021 to 11/19/2021 (to be combined with rankings from 05/27/2021 and prior data).  Obtained from https://www.fifa.com/fifa-world-ranking/.
+
 [`current_table_12.14.2021.csv`](./data/current_table_12.14.2021.csv):  Current CONCACAF World Cup Qualifying table for comparison.  Obtained from https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf.
+
 [`cleaned_results_and_rankings.csv`](./data/cleaned_results_and_rankings.csv):  International fixtures with rankings pulled in and engineered features of 10 game home/away goals for/against averages and dummied match types (used for modeling for predictions)
+
 [`cleaned_qualifying_fixtures.csv`](./data/cleaned_qualifying_fixtures.csv):  CONCACAF qualifying fixtures with scores removed and rankings and features added to use model to predict on
+
 [`qualifier_predictions.csv`](./data/qualifier_predictions.csv):  CONCACAF qualifying fixtures with predicted scores from the model
 
 
@@ -67,7 +75,7 @@ My first step in organizing and cleaning the data was to remove all fixtures wit
 
 Once those cleaning steps were completed, I used for loops to derive averages for goals scored and goals conceded by the home and away teams in their previous 10 respective home and away games.  I also wrote functions to apply the teams most current ranking to the results dataset from the rankings dataset.  I also converted the neutral columns True/False to 1/0 to prepare the data for modeling and condensed and one-hot encoded the match type.
 
-Once the results dataset was cleaned with engineered features, I ensured that the qualifying fixtures dataset that I was going to predict on had the same features.  For rankings and 10 game goal averages, I provided the dataset with the most recent data from the results table in order to predict the entire set of matches.
+Once the results dataset was cleaned with engineered features, I ensured that the qualifying fixtures dataset that I was going to predict on had the same features.  For rankings and 10 game goal averages, I provided the dataset with the most recent data from the results table in order to predict the qualifier matches.
 
 Exploratory Data Analysis came next and with that came insights into what the model may predict.  Looking at the distribution of goals by home and away teams, I found that it is most common that the home team scores 1 goal and the away team scores 0 goals.  This occurred in about 30% and 40% of the data, respectively.  I also looked at goal averages for CONCACAF teams over the entire dataset and found that Mexico had the best goal differential in home and away games.
 
@@ -83,21 +91,16 @@ I decided to go with the Keras library and create a neural network models to hel
 
 The models did not perform very well, but that was to be expected with the limited amount of data available for each match and the complexity of predicting the exact score.  The model predicting the home score had an r2 score of 0.18 and a mean absolute error of 1.0.  The model predicting the away score had an r2 score of 0.11 and a mean absolute error of 0.81.  While the r2 scores and errors of almost 1 goal for both home and away scores may not seem great, I moved forward with using the models to predict on the CONCACAF qualifying matches.
 
+After generating the predicted scores of each match, I compared my predictions to the 32 qualifying matches that had been played already.  I found that out of the previously played matches, the model was able to predict the exact home and away score correctly 6 times (or 18.75% of the completed qualifying matches).  Of the three possible outcomes of each match (home team win, home team loss, or draw), the model correctly predicted the outcome 17 times (53.13% of the completed qualifying matches). The model predicted the correct home score 12 times (37.50%) and the correct away score 11 times (34.38%).  It also predicted the correct total number of goals scored 12 times (37.50%).  I also looked at how it performed for each of the CONCACAF team's 8 games played and those results can be seen in the Predicted Qualification Table and Accuracy of Predictions notebook.
+
+After examining the matches, it was time to determine which teams would qualify and advance to the World Cup this November in Qatar.  Based on the predictions and CONCACAF's rules for scoring/standings, Mexico, United States, and Jamaica would be the teams that qualify for the World Cup with Canada advancing to a play-in game against a team from either the South America, Oceania, or Asia region.  As of right now, Canada, United States, and Mexico are the top three teams in the CONCACAF table, but with how unpredictable the sport is, that can all change over the course of the next 6 qualifying matches.
+
+As for using these datasets and this model for predicting scores and gambling on them, they can provide some insight into what is likely to happen, but anything can happen in this sport and it would still be a gamble.  A player could slip on a wet field, a referee could make an incorrect call, or so many other factors could affect the outcome of a match.  I would hope to collect more data on matches that would help provide more insight into the scoreline as well as try different models to see if they would be better predictors.  Lastly, I would also like to use predictions to create future features such as the 10 game goal averages or possibly use RNN models to predict future rankings of a teams as well.
+
 ---
 
 ### Presentation
 
 [CONCACAF World Cup Qualifying Match Predictions](https://docs.google.com/presentation/d/136yhEa5arWjzEvIrlBj98Zj64CgmEy_qG1A76P6mUpU/edit?usp=sharing)
 
-
-
-
-
-
-Things to discuss in analysis/presentation:
-
-soccer difficult to predict, only predicting 14 games
-
-not a lot of people use regression to predict goals scored (most predict outcome/use classification)
-
-recommend trying another model(random forest regressor), looking at weighting the rankings so they don't as heavily impact predicted scores, look to add more stats, possibly using a RNN model to predict home/away goals for/against averages in the upcoming fixtures
+---
